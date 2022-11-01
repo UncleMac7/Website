@@ -9,7 +9,7 @@
   
 
     h1{
-        font-size: 50px;
+        font-size: 60px;
 
         @include mobile{
             font-size: 20px;
@@ -31,7 +31,8 @@
         
     }
     .container{
-        width: 70%;
+        width: 80%;
+        border-radius: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -42,8 +43,8 @@
         }
 
         .item{
-            width: 220px;
-            height: 150px;
+            width: 300px;
+            height: 190px;
             border-radius: 20px;
             border: 1px solid lightgray;
             display: flex;

@@ -63,6 +63,7 @@
 
             }
             .center{
+                color: white;
                 padding: 10px;
                 border-radius: 10px;
                 background-color: rgb(231, 143, 143);
@@ -75,10 +76,11 @@
                 flex-direction: column;
 
                 h3{
+                    color: white;
                     margin-bottom: 5px;
                 }
                 h4{
-                    color: rgb(72, 55, 55) ;
+                    color: rgb(241, 238, 238) ;
                 }
             }
         }

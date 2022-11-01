@@ -28,7 +28,7 @@ export default function Contact() {
 
       </div>
       <div className="right">
-          <h2>Contact.</h2>
+          <h2>Contact</h2>
           <form ref={form}  onSubmit={handleSubmit}>
 
             <input type="text" placeholder="Email" name="email"/>
