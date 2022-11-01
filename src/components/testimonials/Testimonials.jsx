@@ -11,7 +11,7 @@ const data =[
   img:
   "https://images.unsplash.com/photo-1524253860834-0e02422248bc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80",
   icon:"assets/youtube.png",
-  desc: "Lorem ipsum dj isjnx ikanxklnls iste e oncolmola kjknknlst magni!",
+  desc: "Very creative individual and has lots of creative ways to achieve desired goals",
 
 },
 {
@@ -21,7 +21,7 @@ const data =[
   img:
   "assets/IMG_5978.jpg",
   icon:"assets/Linkedin.png",
-  desc: "Best Mate",
+  desc: "Always willing to learn new concepts and arrises to any challenge",
   featured: true,
 
 },
@@ -32,7 +32,7 @@ const data =[
   img:
   "https://images.unsplash.com/photo-1458681708599-e0be9ce54707?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
   icon:"assets/youtube.png",
-  desc: "Lorem ipsum dj isjnx ikanxklnls iste e oncolmola kjknknlst magni!",
+  desc: "Sees the world as a canvas to put energy into activities that make tomorrow better.  ",
 
 },
 
