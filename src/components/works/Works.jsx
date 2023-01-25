@@ -17,7 +17,7 @@ export default function Works() {
     {
       id: "2",
       icon: "./assets/Globe.png",
-      title: "Mobile Application",
+      title: "Web Applications",
       desc: " See my work on GitHub.",
       img:
       "https://thumbs.dreamstime.com/z/website-construction-line-style-illustration-thin-flat-design-under-web-page-building-process-site-form-layout-menu-buttons-56067268.jpg",

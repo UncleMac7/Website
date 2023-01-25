@@ -3,35 +3,35 @@ export const featuredPortfolio = [
         id: 1,
         title: "OrionConnect Social App",
         img: "./assets/OrionConnect.png",
-        link:""
+        link:"https://orionconnect.netlify.app"
 
     },
     {
         id: 2,
-        title: "CourseConnect Design",
-        img: "./assets/CourseConnect.png",
-        link:'https://www.figma.com/file/SfFssIVGfFQYObK0voGVak/CourseConnect?node-id=0%3A1&t=LwpoIl7fIknjrlhP-1'
-
+        title: "Orion Blog Web App",
+        img: "./assets/orion.png",
+        link: "https://orionblog.netlify.app/"
+       
     },
     {
         id: 3,
-        title: " NuntiumBlog Design",
+        title: " NuntiumBlog Design (frontend template)",
         img: ".//assets/NuntiumDesign.png",
-        link:"https://www.figma.com/file/PGvLiJBOh4ShME9DeZ5lqG/Nuntium-Blog-UI-Design-(Community)?node-id=2%3A1066&t=1w3fFJrTH0bTOFDK-1"
+        link:"https://nuntium-blog.netlify.app/"
 
     },
     {
         id: 4,
-        title: "Ecommerce Web App",
+        title: "Ecommerce Web App(coming soon)",
         img: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         link: "",
 
     },
     {
         id: 5,
-        title: "Nuntium Blog Web App",
-        img: "./assets/NuntiumBlog.png",
-        link: "https://nuntium-blog.netlify.app/"
+        title: "CourseConnect Design",
+        img: "./assets/CourseConnect.png",
+        link:'https://www.figma.com/file/SfFssIVGfFQYObK0voGVak/CourseConnect?node-id=0%3A1&t=LwpoIl7fIknjrlhP-1'
 
     },
     
@@ -70,9 +70,9 @@ export const MobilePortfolio = [
 export const WebPortfolio = [
     {
         id: 1,
-        title: "CourseConnect Web App",
-        img: "./assets/CourseConnect.png",
-        link: ""
+        title: "OrionConnect (FULLSTACK)",
+        img: "./assets/OrionConnect.png",
+        link:"https://orionconnect.netlify.app"
     },
     {
         id: 2,
@@ -83,19 +83,20 @@ export const WebPortfolio = [
     },
     {
         id: 3,
-        title: "AdminDashboard",
-        img: "https://cdn.dribbble.com/users/439063/screenshots/18064353/media/d7bf3555f5a2325feffa5aba37c70f7a.png?compress=1&resize=1000x750&vertical=top",
-        link:""
+        title: "Orion Blog",
+        img: "./assets/orion.png",
+        link: "https://orionblog.netlify.app/"
     },
     {
         id: 4,
-        title: "OrionConnect (FULLSTACK)",
-        img: "./assets/OrionConnect.png",
-        link:""
+        title: "CourseConnect Web App",
+        img: "./assets/CourseConnect.png",
+        link: ""
+       
     },
     {
         id: 5,
-        title: "E-commerce App",
+        title: "E-commerce App(coming soon)",
         img: "https://images.unsplash.com/photo-1472851294608-062f824d29cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
         link:""
     },
